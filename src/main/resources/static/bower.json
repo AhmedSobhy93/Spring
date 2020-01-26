@@ -1,0 +1,22 @@
+{
+  "name": "bower install --save jquery bootstrap",
+  "authors": [
+    "AhmedSobhy93 <eng_ahmed9393@yahoo.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "src/main/resources/static/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.4.1",
+    "bootstrap": "^4.4.1"
+  }
+}
